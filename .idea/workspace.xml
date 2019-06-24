@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7879870f-f8d9-496d-b040-7379887ebedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/profiles_rest_api/src/profiles_api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles_rest_api/src/profiles_api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_rest_api/src/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_rest_api/src/profiles_api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_rest_api/src/profiles_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_rest_api/src/profiles_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
